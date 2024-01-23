@@ -8,4 +8,5 @@ The website and its database backend will record important entities relevant to 
 
 Training sessions are offered individually and in bulk for a discount, including packages of 5, 10, and 15 sessions.
 
-Schema Diagram
+# Schema Diagram
+![image](https://user-images.githubusercontent.com/67980984/187250654-4937e37b-78fb-45f3-8659-a39702c1be09.png)
